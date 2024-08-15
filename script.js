@@ -2,7 +2,9 @@ const words = [
     "spiceny", "skurveny", "kokotsky", "prijebany", "idiotsky",
     "pripiceny", "skurvenko", "rozjebanko", "najebany", "buzerantsky",
     "idiotsky", "pro-izraelsky", "sasi moranovsky", "queer-geno",
-    "imbecilny", "kokotisky", "kyjovsky", "dementny", "imbecilko"
+    "imbecilny", "kokotisky", "kyjovsky", "dementny", "imbecilko",
+    "a este", "najebanec", "pripic", "zajeb", "rododendronko",
+    "skurvenisko", "raz kokot, navzdy kokotisko"
 ];
 
 function generateWords() {
