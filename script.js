@@ -16,5 +16,6 @@ function generateWords() {
         generatedWords.push(words[randomIndex]);
     }
 
-    document.getElementById('wordOutput').innerText = generatedWords.join(', ');
+    const sentence = `ty si ${generatedWords.join(', ')} ?`;
+    document.getElementById('wordOutput').innerText = sentence;
 }
