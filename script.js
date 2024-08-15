@@ -73,8 +73,7 @@ const words = [
   "sadlakurka",
   "somár",
   "sprosták",
-  "sprostina"
-    "kokot", "geňo", "piča", "kurva", "retardko", "a a a ", " kriste pane daj mi sekundu...", "a dokonca aj ", "pritom este si aj", 
+  "sprostina", "kokot", "geňo", "piča", "kurva", "retardko", "a a a ", " kriste pane daj mi sekundu...", "a dokonca aj ", "pritom este si aj", 
 ];
 
 function generateWords() {
