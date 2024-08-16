@@ -54,6 +54,8 @@ const words = [
   "skuhroš",
   "skupáň",
   "skývražník",
+    "chrumkar",
+    "lupezkar",
   "škrvačník",
   "tlčibabka",
   "úžerník",
