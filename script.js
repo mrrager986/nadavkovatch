@@ -75,7 +75,30 @@ const words = [
   "sadlakurka",
   "somár",
   "sprosták",
-  "sprostina", "kokot", "geňo", "piča", "kurva", "retardko", "a a a ", " kriste pane daj mi sekundu...", "a dokonca aj ", "pritom este si aj", 
+    "dojebanec",
+"zdechlinec",
+"skurvítko",
+"vykokotko",
+"vypatlanec",
+"rozumový invalid",
+"pizďuch",
+"čuráček",
+"dojebkáč",
+"zdochliak",
+"ojebkáč",
+"vysierač",
+"mrzák na rozume",
+"mentál",
+"vylízanec",
+"zabednenec",
+"prachsprostý debil",
+"retardovaný idiot",
+"patológ mozgu",
+"dojebník",
+"čvargoš",
+"čučožrút",
+"šmatlavý idiot",
+"sprostina", "kokot", "geňo", "piča", "kurva", "retardko", "a a a ", " kriste pane daj mi sekundu...", "a dokonca aj ", "pritom este si aj", 
 ];
 
 function generateWords() {
@@ -90,3 +113,4 @@ function generateWords() {
     const sentence = `ty si ${generatedWords.join(', ')} ?`;
     document.getElementById('wordOutput').innerText = sentence;
 }
+
