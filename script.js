@@ -99,6 +99,8 @@ const words = [
 "čučožrút",
 "šmatlavý idiot",
     "džumigár",
+    "ty džubák",
+    "ty džesika",    
 "sprostina", "kokot", "geňo", "piča", "kurva", "retardko", "a a a ", " kriste pane daj mi sekundu...", "a dokonca aj ", "pritom este si aj", 
 ];
 
@@ -114,5 +116,6 @@ function generateWords() {
     const sentence = `ty si ${generatedWords.join(', ')} ?`;
     document.getElementById('wordOutput').innerText = sentence;
 }
+
 
 
